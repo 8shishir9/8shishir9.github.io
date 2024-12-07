@@ -4,3 +4,41 @@
   font-family: 'Poppins', sans-serif;
   box-sizing: content-box;
 }
+/* Custom CSS styles */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+}
+
+header {
+  background: linear-gradient(to right, #007bff, #0056b3);
+  color: white;
+  padding: 3rem 0;
+}
+
+h2 {
+  color: #0056b3;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+img {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 2rem;
+  border-top: 1px solid #ddd;
+}
+
+footer a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
